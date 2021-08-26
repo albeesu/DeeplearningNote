@@ -48,6 +48,10 @@
                     <td>Oriented R-CNN for Object Detection</td>
                     <td>預定</td>
                 </tr>
+		<tr>
+                    <td>You Only Look Once: Unified, Real-Time Object Detection</td>
+                    <td>預定</td>
+                </tr>
             </thead>
           </div>
         
