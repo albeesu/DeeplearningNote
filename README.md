@@ -32,7 +32,7 @@
                     <td>預定</td>
                 </tr>
               <tr>
-					<td rowspan=4 align=center>object detection</td>
+					<td rowspan=5 align=center>object detection</td>
                     <td>End-to-end object detection with transformers</td>
                     <td>預定</td>
                 </tr>
